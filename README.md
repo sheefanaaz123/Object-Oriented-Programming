@@ -1,1 +1,3 @@
-# OOP-LAB-in-C-2nd-Year-
+# OOP-LAB-2nd-Year-
+
+OOP in C++
